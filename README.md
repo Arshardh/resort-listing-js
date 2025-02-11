@@ -1,5 +1,5 @@
 # resort-listing-js
-A site listing resorts including an advance search
+A site listing resorts including a advance search
 
 ## Screenshot
 
