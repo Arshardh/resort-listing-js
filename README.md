@@ -1,7 +1,7 @@
 # resort-listing-js
 A site listing resorts including an advance search
 
-## Screenshot
+## Screenshots
 
 Following screenshots contains the desired output at the end. 
 
